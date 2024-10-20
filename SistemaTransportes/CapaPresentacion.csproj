@@ -46,14 +46,89 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="AccesoSistema.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="AccesoSistema.Designer.cs">
+      <DependentUpon>AccesoSistema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador.Designer.cs">
+      <DependentUpon>Administrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente.Designer.cs">
+      <DependentUpon>Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClienteInformacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClienteInformacion.Designer.cs">
+      <DependentUpon>ClienteInformacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClienteNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClienteNuevo.Designer.cs">
+      <DependentUpon>ClienteNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Flete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Flete.Designer.cs">
+      <DependentUpon>Flete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FleteNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FleteNuevo.Designer.cs">
+      <DependentUpon>FleteNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Flete_AdjuntarPDF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Flete_AdjuntarPDF.Designer.cs">
+      <DependentUpon>Flete_AdjuntarPDF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Flete_IngresarTramo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Flete_IngresarTramo.Designer.cs">
+      <DependentUpon>Flete_IngresarTramo.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AccesoSistema.resx">
+      <DependentUpon>AccesoSistema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador.resx">
+      <DependentUpon>Administrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente.resx">
+      <DependentUpon>Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClienteInformacion.resx">
+      <DependentUpon>ClienteInformacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClienteNuevo.resx">
+      <DependentUpon>ClienteNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Flete.resx">
+      <DependentUpon>Flete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FleteNuevo.resx">
+      <DependentUpon>FleteNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Flete_AdjuntarPDF.resx">
+      <DependentUpon>Flete_AdjuntarPDF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Flete_IngresarTramo.resx">
+      <DependentUpon>Flete_IngresarTramo.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -75,6 +150,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj">
+      <Project>{9f2d85d2-b859-4a9a-b29f-ed0702b6ec0d}</Project>
+      <Name>CapaEntidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaLogicaNegocio\CapaLogicaNegocio.csproj">
+      <Project>{5e3e3933-311b-47c2-a4ef-c9d7a2b22892}</Project>
+      <Name>CapaLogicaNegocio</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
