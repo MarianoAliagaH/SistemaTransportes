@@ -49,3 +49,6 @@ C:\Users\USER\Desktop\SistemaTransportes\SistemaTransportes\obj\Debug\SistemaTra
 C:\Users\USER\Desktop\SistemaTransportes\SistemaTransportes\obj\Debug\SistemaTransportes.Baja.resources
 C:\Users\USER\Desktop\SistemaTransportes\SistemaTransportes\obj\Debug\SistemaTransportes.DatosDocumentos.resources
 C:\Users\USER\Desktop\SistemaTransportes\SistemaTransportes\obj\Debug\SistemaTransportes.HistorialDocumento.resources
+C:\Users\USER\Desktop\SistemaTransportes\SistemaTransportes\obj\Debug\SistemaTransportes.InformacionVehiculo.resources
+C:\Users\USER\Desktop\SistemaTransportes\SistemaTransportes\obj\Debug\SistemaTransportes.NuevoVehiculo.resources
+C:\Users\USER\Desktop\SistemaTransportes\SistemaTransportes\obj\Debug\SistemaTransportes.Vehiculo.resources

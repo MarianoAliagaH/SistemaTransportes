@@ -40,5 +40,11 @@ namespace SistemaTransportes
             personalV.Show();
           
         }
+
+        private void vehiculosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Vehiculo vehiculoV = new Vehiculo();
+            vehiculoV.Show();
+        }
     }
 }
