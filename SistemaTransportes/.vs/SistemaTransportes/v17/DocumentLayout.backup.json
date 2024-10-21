@@ -1,88 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\daniel\\source\\moanso_9055_g04\\sistematransportes\\clienteinformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:clienteinformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\daniel\\source\\moanso_9055_g04\\sistematransportes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\daniel\\source\\moanso_9055_g04\\sistematransportes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\daniel\\source\\moanso_9055_g04\\sistematransportes\\flete_adjuntarpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:flete_adjuntarpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\daniel\\source\\moanso_9055_g04\\sistematransportes\\flete_adjuntarpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:flete_adjuntarpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\daniel\\source\\moanso_9055_g04\\sistematransportes\\fletenuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:fletenuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\daniel\\source\\moanso_9055_g04\\sistematransportes\\fletenuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:fletenuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\daniel\\source\\moanso_9055_g04\\sistematransportes\\flete_ingresartramo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:flete_ingresartramo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\daniel\\source\\moanso_9055_g04\\sistematransportes\\flete_ingresartramo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:flete_ingresartramo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\daniel\\source\\moanso_9055_g04\\sistematransportes\\flete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:flete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\daniel\\source\\moanso_9055_g04\\sistematransportes\\flete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:flete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\daniel\\source\\moanso_9055_g04\\sistematransportes\\clientenuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:clientenuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\daniel\\source\\moanso_9055_g04\\sistematransportes\\clientenuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:clientenuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\daniel\\source\\moanso_9055_g04\\sistematransportes\\clienteinformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:clienteinformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\daniel\\source\\moanso_9055_g04\\sistematransportes\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\daniel\\source\\moanso_9055_g04\\sistematransportes\\accesosistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:accesosistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\daniel\\source\\moanso_9055_g04\\sistematransportes\\accesosistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:accesosistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\daniel\\source\\moanso_9055_g04\\sistematransportes\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\daniel\\source\\moanso_9055_g04\\sistematransportes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|SistemaTransportes.csproj|C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|SistemaTransportes.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -90,264 +9,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 78,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Flete_AdjuntarPDF.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Flete_AdjuntarPDF.cs",
-              "RelativeDocumentMoniker": "Flete_AdjuntarPDF.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Flete_AdjuntarPDF.cs",
-              "RelativeToolTip": "Flete_AdjuntarPDF.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAawBgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:03:02.926Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Flete_IngresarTramo.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Flete_IngresarTramo.cs",
-              "RelativeDocumentMoniker": "Flete_IngresarTramo.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Flete_IngresarTramo.cs",
-              "RelativeToolTip": "Flete_IngresarTramo.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAArwBgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:03:08.438Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FleteNuevo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\FleteNuevo.cs",
-              "RelativeDocumentMoniker": "FleteNuevo.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\FleteNuevo.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FleteNuevo.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T16:59:30.544Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FleteNuevo.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\FleteNuevo.cs",
-              "RelativeDocumentMoniker": "FleteNuevo.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\FleteNuevo.cs",
-              "RelativeToolTip": "FleteNuevo.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAArwB4AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:03:13.139Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Flete.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Flete.cs",
-              "RelativeDocumentMoniker": "Flete.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Flete.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Flete.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T16:55:28.388Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cliente.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Cliente.cs",
-              "RelativeDocumentMoniker": "Cliente.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Cliente.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Cliente.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T16:43:49.769Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Cliente.cs",
-              "RelativeDocumentMoniker": "Cliente.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Cliente.cs",
-              "RelativeToolTip": "Cliente.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAawCUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:02:35.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClienteInformacion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\ClienteInformacion.cs",
-              "RelativeDocumentMoniker": "ClienteInformacion.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\ClienteInformacion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ClienteInformacion.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T16:48:48.391Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Flete_IngresarTramo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Flete_IngresarTramo.cs",
-              "RelativeDocumentMoniker": "Flete_IngresarTramo.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Flete_IngresarTramo.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Flete_IngresarTramo.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:00:05.833Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Flete_AdjuntarPDF.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Flete_AdjuntarPDF.cs",
-              "RelativeDocumentMoniker": "Flete_AdjuntarPDF.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Flete_AdjuntarPDF.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Flete_AdjuntarPDF.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:00:48.076Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Flete.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Flete.cs",
-              "RelativeDocumentMoniker": "Flete.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Flete.cs",
-              "RelativeToolTip": "Flete.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAArwCQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:02:58.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ClienteNuevo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\ClienteNuevo.cs",
-              "RelativeDocumentMoniker": "ClienteNuevo.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\ClienteNuevo.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ClienteNuevo.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T16:47:44.619Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ClienteNuevo.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\ClienteNuevo.cs",
-              "RelativeDocumentMoniker": "ClienteNuevo.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\ClienteNuevo.cs",
-              "RelativeToolTip": "ClienteNuevo.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAArwBgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:02:53.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Administrador.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Administrador.cs",
-              "RelativeDocumentMoniker": "Administrador.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Administrador.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Administrador.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T16:35:54.572Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AccesoSistema.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\AccesoSistema.cs",
-              "RelativeDocumentMoniker": "AccesoSistema.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\AccesoSistema.cs",
-              "RelativeToolTip": "AccesoSistema.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAswB0AAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:02:23.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Administrador.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Administrador.cs",
-              "RelativeDocumentMoniker": "Administrador.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Administrador.cs",
-              "RelativeToolTip": "Administrador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:02:29.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ClienteInformacion.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\ClienteInformacion.cs",
-              "RelativeDocumentMoniker": "ClienteInformacion.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\ClienteInformacion.cs",
-              "RelativeToolTip": "ClienteInformacion.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAArwBgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:02:41.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AccesoSistema.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\AccesoSistema.cs",
-              "RelativeDocumentMoniker": "AccesoSistema.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\AccesoSistema.cs [Dise\u00F1o]",
-              "RelativeToolTip": "AccesoSistema.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T16:37:58.867Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:19:51.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T16:17:21.036Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

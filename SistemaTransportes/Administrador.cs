@@ -33,5 +33,12 @@ namespace SistemaTransportes
             this.Dispose();
 
         }
+
+        private void personalToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Personal personalV = new Personal();
+            personalV.Show();
+          
+        }
     }
 }

@@ -58,6 +58,12 @@
     <Compile Include="Administrador.Designer.cs">
       <DependentUpon>Administrador.cs</DependentUpon>
     </Compile>
+    <Compile Include="Baja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baja.Designer.cs">
+      <DependentUpon>Baja.cs</DependentUpon>
+    </Compile>
     <Compile Include="Cliente.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,6 +81,12 @@
     </Compile>
     <Compile Include="ClienteNuevo.Designer.cs">
       <DependentUpon>ClienteNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosDocumentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosDocumentos.Designer.cs">
+      <DependentUpon>DatosDocumentos.cs</DependentUpon>
     </Compile>
     <Compile Include="Flete.cs">
       <SubType>Form</SubType>
@@ -100,6 +112,24 @@
     <Compile Include="Flete_IngresarTramo.Designer.cs">
       <DependentUpon>Flete_IngresarTramo.cs</DependentUpon>
     </Compile>
+    <Compile Include="HistorialDocumento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistorialDocumento.Designer.cs">
+      <DependentUpon>HistorialDocumento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoPersonal.Designer.cs">
+      <DependentUpon>NuevoPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal.Designer.cs">
+      <DependentUpon>Personal.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="AccesoSistema.resx">
@@ -107,6 +137,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Administrador.resx">
       <DependentUpon>Administrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Baja.resx">
+      <DependentUpon>Baja.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Cliente.resx">
       <DependentUpon>Cliente.cs</DependentUpon>
@@ -116,6 +149,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ClienteNuevo.resx">
       <DependentUpon>ClienteNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosDocumentos.resx">
+      <DependentUpon>DatosDocumentos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Flete.resx">
       <DependentUpon>Flete.cs</DependentUpon>
@@ -128,6 +164,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Flete_IngresarTramo.resx">
       <DependentUpon>Flete_IngresarTramo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistorialDocumento.resx">
+      <DependentUpon>HistorialDocumento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoPersonal.resx">
+      <DependentUpon>NuevoPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal.resx">
+      <DependentUpon>Personal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
