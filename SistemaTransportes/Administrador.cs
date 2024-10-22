@@ -34,16 +34,17 @@ namespace SistemaTransportes
 
         }
 
-        private void proveedoresToolStripMenuItem_Click(object sender, EventArgs e)
+        private void personalToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Proveedor ventanaProveedores = new Proveedor();
-            ventanaProveedores.Show();
+            Personal personalV = new Personal();
+            personalV.Show();
+          
         }
 
-        private void ordenesDeTransporteToolStripMenuItem_Click(object sender, EventArgs e)
+        private void vehiculosToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            OrdenTrabajo ventanaOrdenTrabajo = new OrdenTrabajo();
-            ventanaOrdenTrabajo.Show();
+            Vehiculo vehiculoV = new Vehiculo();
+            vehiculoV.Show();
         }
     }
 }
