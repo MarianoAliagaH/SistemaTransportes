@@ -4,3 +4,9 @@ C:\Users\Daniel\source\moanso_9055_g04\CapaEntidad\obj\Debug\CapaEntidad.csproj.
 C:\Users\Daniel\source\moanso_9055_g04\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
 C:\Users\Daniel\source\moanso_9055_g04\CapaEntidad\obj\Debug\CapaEntidad.dll
 C:\Users\Daniel\source\moanso_9055_g04\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Lenovo\Documents\SistemaTransportes\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Lenovo\Documents\SistemaTransportes\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Lenovo\Documents\SistemaTransportes\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\SistemaTransportes\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\SistemaTransportes\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Lenovo\Documents\SistemaTransportes\CapaEntidad\obj\Debug\CapaEntidad.pdb

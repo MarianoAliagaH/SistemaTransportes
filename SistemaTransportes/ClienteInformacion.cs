@@ -24,5 +24,10 @@ namespace SistemaTransportes
         {
             this.Dispose();
         }
+
+        private void btnActualizarCliente_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

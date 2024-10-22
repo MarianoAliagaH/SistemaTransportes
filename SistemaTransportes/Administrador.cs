@@ -33,5 +33,21 @@ namespace SistemaTransportes
             this.Dispose();
 
         }
+
+        private void administrarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ordenesDeTrabajoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OrdenesTrabajo ventanaOrdenesTrabajo = new OrdenesTrabajo();
+            ventanaOrdenesTrabajo.Show();
+        }
+
+        private void movimientosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
