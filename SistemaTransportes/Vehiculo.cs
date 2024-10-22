@@ -15,6 +15,8 @@ namespace SistemaTransportes
         public Vehiculo()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.CenterScreen; // Centrar el formulario en la pantalla
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -31,6 +33,11 @@ namespace SistemaTransportes
         }
 
         private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Vehiculo_Load(object sender, EventArgs e)
         {
 
         }

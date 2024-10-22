@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\user\\desktop\\sistematransportes\\sistematransportes\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\user\\desktop\\sistematransportes\\sistematransportes\\nuevovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:nuevovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\user\\desktop\\sistematransportes\\sistematransportes\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\user\\desktop\\sistematransportes\\sistematransportes\\nuevovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:nuevovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\user\\desktop\\sistematransportes\\sistematransportes\\nuevopersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:nuevopersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\user\\desktop\\sistematransportes\\sistematransportes\\nuevopersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:nuevopersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\user\\desktop\\sistematransportes\\sistematransportes\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\user\\desktop\\sistematransportes\\sistematransportes\\nuevovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:nuevovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\user\\desktop\\sistematransportes\\sistematransportes\\informacionvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:informacionvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\user\\desktop\\sistematransportes\\sistematransportes\\baja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:baja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\user\\desktop\\sistematransportes\\sistematransportes\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\user\\desktop\\sistematransportes\\sistematransportes\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 78,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,77 +82,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Administrador.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\Administrador.cs",
-              "RelativeDocumentMoniker": "Administrador.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\Administrador.cs*",
-              "RelativeToolTip": "Administrador.cs*",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "NuevoPersonal.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\NuevoPersonal.cs",
+              "RelativeDocumentMoniker": "NuevoPersonal.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\NuevoPersonal.cs",
+              "RelativeToolTip": "NuevoPersonal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T21:30:40.976Z",
+              "WhenOpened": "2024-10-22T04:21:07.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NuevoPersonal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\NuevoPersonal.cs",
+              "RelativeDocumentMoniker": "NuevoPersonal.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\NuevoPersonal.cs [Design]",
+              "RelativeToolTip": "NuevoPersonal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:21:04.92Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NuevoVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\NuevoVehiculo.cs",
+              "RelativeDocumentMoniker": "NuevoVehiculo.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\NuevoVehiculo.cs",
+              "RelativeToolTip": "NuevoVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:20:57.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Administrador.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\Administrador.cs",
-              "RelativeDocumentMoniker": "Administrador.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\Administrador.cs [Design]*",
-              "RelativeToolTip": "Administrador.cs [Design]*",
+              "Title": "NuevoVehiculo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\NuevoVehiculo.cs",
+              "RelativeDocumentMoniker": "NuevoVehiculo.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\NuevoVehiculo.cs [Design]",
+              "RelativeToolTip": "NuevoVehiculo.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T21:30:37.936Z",
+              "WhenOpened": "2024-10-22T04:20:54.774Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InformacionVehiculo.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\InformacionVehiculo.cs",
-              "RelativeDocumentMoniker": "InformacionVehiculo.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\InformacionVehiculo.cs [Design]*",
-              "RelativeToolTip": "InformacionVehiculo.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T21:27:37.306Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Vehiculo.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\Vehiculo.cs",
-              "RelativeDocumentMoniker": "Vehiculo.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\Vehiculo.cs*",
-              "RelativeToolTip": "Vehiculo.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T21:22:14.126Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "NuevoVehiculo.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\NuevoVehiculo.cs",
-              "RelativeDocumentMoniker": "NuevoVehiculo.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\NuevoVehiculo.cs [Design]*",
-              "RelativeToolTip": "NuevoVehiculo.cs [Design]*",
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Vehiculo.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\Vehiculo.cs",
+              "RelativeToolTip": "Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T20:56:50.886Z",
+              "WhenOpened": "2024-10-22T04:20:45.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehiculo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Vehiculo.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\Vehiculo.cs [Design]",
+              "RelativeToolTip": "Vehiculo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:20:43.266Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Baja.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\Baja.cs",
-              "RelativeDocumentMoniker": "Baja.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\Baja.cs [Design]",
-              "RelativeToolTip": "Baja.cs [Design]",
+              "Title": "Personal.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\Personal.cs",
+              "RelativeDocumentMoniker": "Personal.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\Personal.cs",
+              "RelativeToolTip": "Personal.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T20:52:10.844Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-22T04:20:30.624Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -163,19 +177,7 @@
               "ToolTip": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\Personal.cs [Design]",
               "RelativeToolTip": "Personal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T20:52:02.661Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Vehiculo.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\Vehiculo.cs",
-              "RelativeDocumentMoniker": "Vehiculo.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\Vehiculo.cs [Design]*",
-              "RelativeToolTip": "Vehiculo.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T20:49:33.865Z",
+              "WhenOpened": "2024-10-22T04:20:29.206Z",
               "EditorCaption": " [Design]"
             }
           ]

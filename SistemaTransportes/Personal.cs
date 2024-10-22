@@ -48,5 +48,10 @@ namespace SistemaTransportes
             historialDocumentoV.Show();
 
         }
+
+        private void Personal_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -15,6 +15,9 @@ namespace SistemaTransportes
         public Baja()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.CenterScreen; 
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
+
         }
 
         private void label8_Click(object sender, EventArgs e)
@@ -25,6 +28,11 @@ namespace SistemaTransportes
         private void button2_Click(object sender, EventArgs e)
         {
             this.Dispose();
+        }
+
+        private void Baja_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

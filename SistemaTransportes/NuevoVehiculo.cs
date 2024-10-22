@@ -15,11 +15,23 @@ namespace SistemaTransportes
         public NuevoVehiculo()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.CenterScreen; // Centrar el formulario en la pantalla
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void NuevoVehiculo_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCancelar_Click(object sender, EventArgs e)
+        {
+            this.Dispose();
         }
     }
 }

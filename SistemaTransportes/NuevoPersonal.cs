@@ -15,9 +15,23 @@ namespace SistemaTransportes
         public NuevoPersonal()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.CenterScreen; 
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
+
+            
         }
 
         private void NuevoPersonal_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Dispose();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }

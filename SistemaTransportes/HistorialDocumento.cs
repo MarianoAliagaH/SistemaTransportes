@@ -15,6 +15,8 @@ namespace SistemaTransportes
         public HistorialDocumento()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.CenterScreen; 
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -26,6 +28,11 @@ namespace SistemaTransportes
         private void button2_Click(object sender, EventArgs e)
         {
             this.Dispose();
+        }
+
+        private void HistorialDocumento_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

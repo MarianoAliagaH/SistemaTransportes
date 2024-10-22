@@ -15,6 +15,8 @@ namespace SistemaTransportes
         public DatosDocumentos()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.CenterScreen; 
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -25,6 +27,11 @@ namespace SistemaTransportes
         private void button2_Click(object sender, EventArgs e)
         {
             this.Dispose();
+        }
+
+        private void DatosDocumentos_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
