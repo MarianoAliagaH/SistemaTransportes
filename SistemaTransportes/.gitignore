@@ -1,0 +1,17 @@
+# Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+*.dbmdl
+*.dbproj.schemaview
+*.pdb
+*.cache
+*.log
+*.obj
+*.exe
+*.dll
+*.tlb
+*.tlh
+*.bak
+*.swp
