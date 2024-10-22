@@ -59,6 +59,12 @@
     <Compile Include="Administrador.Designer.cs">
       <DependentUpon>Administrador.cs</DependentUpon>
     </Compile>
+    <Compile Include="Baja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baja.Designer.cs">
+      <DependentUpon>Baja.cs</DependentUpon>
+    </Compile>
     <Compile Include="Cliente.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,6 +82,12 @@
     </Compile>
     <Compile Include="ClienteNuevo.Designer.cs">
       <DependentUpon>ClienteNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosDocumentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosDocumentos.Designer.cs">
+      <DependentUpon>DatosDocumentos.cs</DependentUpon>
     </Compile>
     <Compile Include="Flete.cs">
       <SubType>Form</SubType>
@@ -101,6 +113,7 @@
     <Compile Include="Flete_IngresarTramo.Designer.cs">
       <DependentUpon>Flete_IngresarTramo.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="NuevaOrdenTrabajo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -112,14 +125,54 @@
     </Compile>
     <Compile Include="OrdenesTrabajo.Designer.cs">
       <DependentUpon>OrdenesTrabajo.cs</DependentUpon>
+=======
+    <Compile Include="HistorialDocumento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistorialDocumento.Designer.cs">
+      <DependentUpon>HistorialDocumento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InformacionVehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformacionVehiculo.Designer.cs">
+      <DependentUpon>InformacionVehiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoPersonal.Designer.cs">
+      <DependentUpon>NuevoPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoVehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoVehiculo.Designer.cs">
+      <DependentUpon>NuevoVehiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal.Designer.cs">
+      <DependentUpon>Personal.cs</DependentUpon>
+>>>>>>> 7fbfe98924e0d01dfc88256861f15205f54a9498
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vehiculo.Designer.cs">
+      <DependentUpon>Vehiculo.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="AccesoSistema.resx">
       <DependentUpon>AccesoSistema.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Administrador.resx">
       <DependentUpon>Administrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Baja.resx">
+      <DependentUpon>Baja.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Cliente.resx">
       <DependentUpon>Cliente.cs</DependentUpon>
@@ -129,6 +182,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ClienteNuevo.resx">
       <DependentUpon>ClienteNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosDocumentos.resx">
+      <DependentUpon>DatosDocumentos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Flete.resx">
       <DependentUpon>Flete.cs</DependentUpon>
@@ -142,11 +198,28 @@
     <EmbeddedResource Include="Flete_IngresarTramo.resx">
       <DependentUpon>Flete_IngresarTramo.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
     <EmbeddedResource Include="NuevaOrdenTrabajo.resx">
       <DependentUpon>NuevaOrdenTrabajo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="OrdenesTrabajo.resx">
       <DependentUpon>OrdenesTrabajo.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="HistorialDocumento.resx">
+      <DependentUpon>HistorialDocumento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformacionVehiculo.resx">
+      <DependentUpon>InformacionVehiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoPersonal.resx">
+      <DependentUpon>NuevoPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoVehiculo.resx">
+      <DependentUpon>NuevoVehiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal.resx">
+      <DependentUpon>Personal.cs</DependentUpon>
+>>>>>>> 7fbfe98924e0d01dfc88256861f15205f54a9498
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -157,6 +230,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Vehiculo.resx">
+      <DependentUpon>Vehiculo.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

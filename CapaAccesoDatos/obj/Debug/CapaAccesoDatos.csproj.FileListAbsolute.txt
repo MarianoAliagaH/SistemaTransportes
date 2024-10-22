@@ -7,6 +7,7 @@ C:\Users\Daniel\source\moanso_9055_g04\CapaAccesoDatos\obj\Debug\CapaAccesoDatos
 C:\Users\Daniel\source\moanso_9055_g04\CapaAccesoDatos\obj\Debug\CapaAcce.1AD5E18C.Up2Date
 C:\Users\Daniel\source\moanso_9055_g04\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
 C:\Users\Daniel\source\moanso_9055_g04\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+<<<<<<< HEAD
 C:\Users\Lenovo\Documents\SistemaTransportes\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
 C:\Users\Lenovo\Documents\SistemaTransportes\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
 C:\Users\Lenovo\Documents\SistemaTransportes\CapaAccesoDatos\bin\Debug\CapaEntidad.dll
@@ -16,3 +17,14 @@ C:\Users\Lenovo\Documents\SistemaTransportes\CapaAccesoDatos\obj\Debug\CapaAcces
 C:\Users\Lenovo\Documents\SistemaTransportes\CapaAccesoDatos\obj\Debug\CapaAcce.1AD5E18C.Up2Date
 C:\Users\Lenovo\Documents\SistemaTransportes\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
 C:\Users\Lenovo\Documents\SistemaTransportes\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+=======
+C:\Users\USER\Desktop\SistemaTransportes\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\USER\Desktop\SistemaTransportes\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\USER\Desktop\SistemaTransportes\CapaAccesoDatos\bin\Debug\CapaEntidad.dll
+C:\Users\USER\Desktop\SistemaTransportes\CapaAccesoDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\USER\Desktop\SistemaTransportes\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\SistemaTransportes\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SistemaTransportes\CapaAccesoDatos\obj\Debug\CapaAcce.1AD5E18C.Up2Date
+C:\Users\USER\Desktop\SistemaTransportes\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\USER\Desktop\SistemaTransportes\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+>>>>>>> 7fbfe98924e0d01dfc88256861f15205f54a9498

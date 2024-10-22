@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.btnCerrar = new System.Windows.Forms.Button();
             this.btnAbrirFlete = new System.Windows.Forms.Button();
             this.btnClientesDeshabilitados = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
@@ -41,7 +42,6 @@
             this.txtNumeroDocumento = new System.Windows.Forms.TextBox();
             this.btnBuscarCliente = new System.Windows.Forms.Button();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.btnCerrar = new System.Windows.Forms.Button();
             this.groupBox3.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
@@ -53,32 +53,44 @@
             this.groupBox3.Controls.Add(this.btnCerrar);
             this.groupBox3.Controls.Add(this.btnAbrirFlete);
             this.groupBox3.Controls.Add(this.btnClientesDeshabilitados);
-            this.groupBox3.Location = new System.Drawing.Point(757, 693);
+            this.groupBox3.Location = new System.Drawing.Point(758, 566);
             this.groupBox3.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Padding = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.groupBox3.Size = new System.Drawing.Size(804, 134);
+            this.groupBox3.Size = new System.Drawing.Size(614, 106);
             this.groupBox3.TabIndex = 8;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Opciones Adicionales";
             // 
+            // btnCerrar
+            // 
+            this.btnCerrar.BackColor = System.Drawing.Color.LightCoral;
+            this.btnCerrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnCerrar.Location = new System.Drawing.Point(446, 19);
+            this.btnCerrar.Name = "btnCerrar";
+            this.btnCerrar.Size = new System.Drawing.Size(75, 75);
+            this.btnCerrar.TabIndex = 6;
+            this.btnCerrar.Text = "Cerrar";
+            this.btnCerrar.UseVisualStyleBackColor = false;
+            this.btnCerrar.Click += new System.EventHandler(this.btnCerrar_Click);
+            // 
             // btnAbrirFlete
             // 
-            this.btnAbrirFlete.Location = new System.Drawing.Point(29, 23);
+            this.btnAbrirFlete.Location = new System.Drawing.Point(34, 22);
             this.btnAbrirFlete.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.btnAbrirFlete.Name = "btnAbrirFlete";
-            this.btnAbrirFlete.Size = new System.Drawing.Size(105, 104);
+            this.btnAbrirFlete.Size = new System.Drawing.Size(75, 75);
             this.btnAbrirFlete.TabIndex = 4;
-            this.btnAbrirFlete.Text = "Asignar Flete";
+            this.btnAbrirFlete.Text = "Fletes por Ruta del Cliente";
             this.btnAbrirFlete.UseVisualStyleBackColor = true;
             this.btnAbrirFlete.Click += new System.EventHandler(this.btnAbrirFlete_Click);
             // 
             // btnClientesDeshabilitados
             // 
-            this.btnClientesDeshabilitados.Location = new System.Drawing.Point(394, 23);
+            this.btnClientesDeshabilitados.Location = new System.Drawing.Point(241, 19);
             this.btnClientesDeshabilitados.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.btnClientesDeshabilitados.Name = "btnClientesDeshabilitados";
-            this.btnClientesDeshabilitados.Size = new System.Drawing.Size(105, 104);
+            this.btnClientesDeshabilitados.Size = new System.Drawing.Size(75, 75);
             this.btnClientesDeshabilitados.TabIndex = 3;
             this.btnClientesDeshabilitados.Text = "Clientes Deshabilitados";
             this.btnClientesDeshabilitados.UseVisualStyleBackColor = true;
@@ -89,21 +101,21 @@
             this.groupBox2.Controls.Add(this.btnDeshabilitarCliente);
             this.groupBox2.Controls.Add(this.btnActualizar);
             this.groupBox2.Controls.Add(this.btnAbrirClienteNuevo);
-            this.groupBox2.Location = new System.Drawing.Point(14, 693);
+            this.groupBox2.Location = new System.Drawing.Point(14, 560);
             this.groupBox2.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Padding = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.groupBox2.Size = new System.Drawing.Size(736, 134);
+            this.groupBox2.Size = new System.Drawing.Size(736, 112);
             this.groupBox2.TabIndex = 7;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Opciones [Clientes]";
             // 
             // btnClienteInformacion
             // 
-            this.btnClienteInformacion.Location = new System.Drawing.Point(555, 23);
+            this.btnClienteInformacion.Location = new System.Drawing.Point(540, 22);
             this.btnClienteInformacion.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.btnClienteInformacion.Name = "btnClienteInformacion";
-            this.btnClienteInformacion.Size = new System.Drawing.Size(105, 104);
+            this.btnClienteInformacion.Size = new System.Drawing.Size(75, 75);
             this.btnClienteInformacion.TabIndex = 4;
             this.btnClienteInformacion.Text = "Informacion Cliente";
             this.btnClienteInformacion.UseVisualStyleBackColor = true;
@@ -111,30 +123,30 @@
             // 
             // btnDeshabilitarCliente
             // 
-            this.btnDeshabilitarCliente.Location = new System.Drawing.Point(377, 23);
+            this.btnDeshabilitarCliente.Location = new System.Drawing.Point(374, 22);
             this.btnDeshabilitarCliente.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.btnDeshabilitarCliente.Name = "btnDeshabilitarCliente";
-            this.btnDeshabilitarCliente.Size = new System.Drawing.Size(105, 104);
+            this.btnDeshabilitarCliente.Size = new System.Drawing.Size(75, 75);
             this.btnDeshabilitarCliente.TabIndex = 2;
             this.btnDeshabilitarCliente.Text = "Deshabilitar Cliente";
             this.btnDeshabilitarCliente.UseVisualStyleBackColor = true;
             // 
             // btnActualizar
             // 
-            this.btnActualizar.Location = new System.Drawing.Point(217, 23);
+            this.btnActualizar.Location = new System.Drawing.Point(207, 22);
             this.btnActualizar.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.btnActualizar.Name = "btnActualizar";
-            this.btnActualizar.Size = new System.Drawing.Size(105, 104);
+            this.btnActualizar.Size = new System.Drawing.Size(75, 75);
             this.btnActualizar.TabIndex = 1;
             this.btnActualizar.Text = "Actualizar Cliente";
             this.btnActualizar.UseVisualStyleBackColor = true;
             // 
             // btnAbrirClienteNuevo
             // 
-            this.btnAbrirClienteNuevo.Location = new System.Drawing.Point(56, 23);
+            this.btnAbrirClienteNuevo.Location = new System.Drawing.Point(51, 22);
             this.btnAbrirClienteNuevo.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.btnAbrirClienteNuevo.Name = "btnAbrirClienteNuevo";
-            this.btnAbrirClienteNuevo.Size = new System.Drawing.Size(105, 104);
+            this.btnAbrirClienteNuevo.Size = new System.Drawing.Size(75, 75);
             this.btnAbrirClienteNuevo.TabIndex = 0;
             this.btnAbrirClienteNuevo.Text = "Nuevo Cliente";
             this.btnAbrirClienteNuevo.UseVisualStyleBackColor = true;
@@ -143,10 +155,10 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(14, 98);
+            this.dataGridView1.Location = new System.Drawing.Point(14, 78);
             this.dataGridView1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(1547, 588);
+            this.dataGridView1.Size = new System.Drawing.Size(1547, 476);
             this.dataGridView1.TabIndex = 6;
             // 
             // groupBox1
@@ -155,11 +167,11 @@
             this.groupBox1.Controls.Add(this.btnBuscarCliente);
             this.groupBox1.Controls.Add(this.comboBox1);
             this.groupBox1.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox1.Location = new System.Drawing.Point(14, 14);
+            this.groupBox1.Location = new System.Drawing.Point(14, 12);
             this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.groupBox1.Size = new System.Drawing.Size(524, 77);
+            this.groupBox1.Size = new System.Drawing.Size(524, 60);
             this.groupBox1.TabIndex = 5;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Numero Documento";
@@ -198,23 +210,11 @@
             this.comboBox1.TabIndex = 0;
             this.comboBox1.Text = "Seleccionar";
             // 
-            // btnCerrar
-            // 
-            this.btnCerrar.BackColor = System.Drawing.Color.LightCoral;
-            this.btnCerrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCerrar.Location = new System.Drawing.Point(670, 35);
-            this.btnCerrar.Name = "btnCerrar";
-            this.btnCerrar.Size = new System.Drawing.Size(80, 80);
-            this.btnCerrar.TabIndex = 6;
-            this.btnCerrar.Text = "Cerrar";
-            this.btnCerrar.UseVisualStyleBackColor = false;
-            this.btnCerrar.Click += new System.EventHandler(this.btnCerrar_Click);
-            // 
             // Cliente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1575, 841);
+            this.ClientSize = new System.Drawing.Size(1384, 701);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.dataGridView1);

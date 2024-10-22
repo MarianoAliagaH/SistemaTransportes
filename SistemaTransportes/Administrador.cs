@@ -34,6 +34,7 @@ namespace SistemaTransportes
 
         }
 
+<<<<<<< HEAD
         private void administrarToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
@@ -48,6 +49,19 @@ namespace SistemaTransportes
         private void movimientosToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
+=======
+        private void personalToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Personal personalV = new Personal();
+            personalV.Show();
+          
+        }
+
+        private void vehiculosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Vehiculo vehiculoV = new Vehiculo();
+            vehiculoV.Show();
+>>>>>>> 7fbfe98924e0d01dfc88256861f15205f54a9498
         }
     }
 }
