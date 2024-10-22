@@ -33,5 +33,17 @@ namespace SistemaTransportes
             this.Dispose();
 
         }
+
+        private void proveedoresToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Proveedor ventanaProveedores = new Proveedor();
+            ventanaProveedores.Show();
+        }
+
+        private void ordenesDeTransporteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OrdenTrabajo ventanaOrdenTrabajo = new OrdenTrabajo();
+            ventanaOrdenTrabajo.Show();
+        }
     }
 }

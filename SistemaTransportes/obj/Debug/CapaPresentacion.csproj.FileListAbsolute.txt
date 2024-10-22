@@ -21,3 +21,4 @@ C:\Users\Daniel\source\moanso_9055_g04\SistemaTransportes\obj\Debug\CapaPresenta
 C:\Users\Daniel\source\moanso_9055_g04\SistemaTransportes\obj\Debug\CapaPres.61CA7C38.Up2Date
 C:\Users\Daniel\source\moanso_9055_g04\SistemaTransportes\obj\Debug\SistemaTransportes.exe
 C:\Users\Daniel\source\moanso_9055_g04\SistemaTransportes\obj\Debug\SistemaTransportes.pdb
+C:\Users\Daniel\source\moanso_9055_g04\SistemaTransportes\obj\Debug\SistemaTransportes.Proveedores.resources
