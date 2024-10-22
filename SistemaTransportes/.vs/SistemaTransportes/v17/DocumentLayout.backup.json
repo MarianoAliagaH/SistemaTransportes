@@ -1,8 +1,11 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\",
   "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
     {
       "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\lenovo\\documents\\sistematransportes\\sistematransportes\\clienteinformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:clienteinformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
@@ -24,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:nuevaordentrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,23 +35,18 @@
       "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
-=======
-  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\SistemaTransportes\\SistemaTransportes\\",
-  "Documents": [],
->>>>>>> 7fbfe98924e0d01dfc88256861f15205f54a9498
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-<<<<<<< HEAD
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ClienteInformacion.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\ClienteInformacion.cs",
               "RelativeDocumentMoniker": "ClienteInformacion.cs",
@@ -72,22 +66,24 @@
               "RelativeToolTip": "Administrador.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAswCwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:04:42.817Z"
+              "WhenOpened": "2024-10-22T04:04:42.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Administrador.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\Administrador.cs",
               "RelativeDocumentMoniker": "Administrador.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\Administrador.cs [Dise\u00F1o]",
               "RelativeToolTip": "Administrador.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:04:40.584Z"
+              "WhenOpened": "2024-10-22T04:04:40.584Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "NuevaOrdenTrabajo.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\NuevaOrdenTrabajo.cs",
               "RelativeDocumentMoniker": "NuevaOrdenTrabajo.cs",
@@ -99,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "OrdenesTrabajo.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\OrdenesTrabajo.cs",
               "RelativeDocumentMoniker": "OrdenesTrabajo.cs",
@@ -111,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "OrdenesTrabajo.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\OrdenesTrabajo.cs",
               "RelativeDocumentMoniker": "OrdenesTrabajo.cs",
@@ -122,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "NuevaOrdenTrabajo.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\NuevaOrdenTrabajo.cs",
               "RelativeDocumentMoniker": "NuevaOrdenTrabajo.cs",
@@ -141,46 +137,6 @@
               "RelativeToolTip": "Cliente.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T01:37:00.499Z"
-=======
-          "DockedWidth": 78,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
->>>>>>> 7fbfe98924e0d01dfc88256861f15205f54a9498
             }
           ]
         }

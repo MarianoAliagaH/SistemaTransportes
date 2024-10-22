@@ -1,38 +1,19 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Escritorio\\Nueva carpeta\\SistemaTransportes\\SistemaTransportes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniel\\source\\moanso_9055_g04\\CapaEntidad\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|c:\\users\\lenovo\\documents\\sistematransportes\\sistematransportes\\clienteinformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:clienteinformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|SistemaTransportes.csproj|C:\\Users\\USER\\Desktop\\Escritorio\\Nueva carpeta\\SistemaTransportes\\SistemaTransportes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|SistemaTransportes.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\nuevaordentrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:nuevaordentrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniel\\source\\moanso_9055_g04\\CapaLogicaNegocio\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\ordenestrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:ordenestrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\ordenestrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:ordenestrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\nuevaordentrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:nuevaordentrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1953B01C-83CC-45B3-827C-A328D849C217}|CapaPresentacion.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniel\\source\\moanso_9055_g04\\CapaAccesoDatos\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,102 +22,90 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 78,
+          "SelectedChildIndex": 9,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClienteInformacion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\ClienteInformacion.cs",
-              "RelativeDocumentMoniker": "ClienteInformacion.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\ClienteInformacion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ClienteInformacion.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:28:12.044Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Administrador.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\Administrador.cs",
-              "RelativeDocumentMoniker": "Administrador.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\Administrador.cs",
-              "RelativeToolTip": "Administrador.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAswCwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:04:42.817Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Administrador.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\Administrador.cs",
-              "RelativeDocumentMoniker": "Administrador.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\Administrador.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Administrador.cs [Dise\u00F1o]",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\CapaEntidad\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Daniel\\source\\moanso_9055_g04\\CapaEntidad\\Class1.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\CapaEntidad\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Daniel\\source\\moanso_9055_g04\\CapaEntidad\\Class1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:04:40.584Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NuevaOrdenTrabajo.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\NuevaOrdenTrabajo.cs",
-              "RelativeDocumentMoniker": "NuevaOrdenTrabajo.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\NuevaOrdenTrabajo.cs",
-              "RelativeToolTip": "NuevaOrdenTrabajo.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAswH4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T02:06:26.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrdenesTrabajo.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\OrdenesTrabajo.cs",
-              "RelativeDocumentMoniker": "OrdenesTrabajo.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\OrdenesTrabajo.cs",
-              "RelativeToolTip": "OrdenesTrabajo.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA9wCoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T01:37:31.134Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrdenesTrabajo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\OrdenesTrabajo.cs",
-              "RelativeDocumentMoniker": "OrdenesTrabajo.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\OrdenesTrabajo.cs [Dise\u00F1o]",
-              "RelativeToolTip": "OrdenesTrabajo.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T01:37:16.843Z"
+              "WhenOpened": "2024-10-20T16:19:23.675Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "NuevaOrdenTrabajo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\NuevaOrdenTrabajo.cs",
-              "RelativeDocumentMoniker": "NuevaOrdenTrabajo.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\NuevaOrdenTrabajo.cs [Dise\u00F1o]",
-              "RelativeToolTip": "NuevaOrdenTrabajo.cs [Dise\u00F1o]",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\CapaLogicaNegocio\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Daniel\\source\\moanso_9055_g04\\CapaLogicaNegocio\\Class1.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\CapaLogicaNegocio\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Daniel\\source\\moanso_9055_g04\\CapaLogicaNegocio\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T01:37:15.009Z"
+              "WhenOpened": "2024-10-20T16:19:10.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Cliente.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\Cliente.cs",
-              "RelativeDocumentMoniker": "Cliente.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\SistemaTransportes\\SistemaTransportes\\Cliente.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Cliente.cs [Dise\u00F1o]",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\CapaAccesoDatos\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Daniel\\source\\moanso_9055_g04\\CapaAccesoDatos\\Class1.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\CapaAccesoDatos\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Daniel\\source\\moanso_9055_g04\\CapaAccesoDatos\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T01:37:00.499Z"
+              "WhenOpened": "2024-10-20T16:18:51.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Escritorio\\Nueva carpeta\\SistemaTransportes\\SistemaTransportes\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Daniel\\source\\moanso_9055_g04\\SistemaTransportes\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:17:21.036Z"
             }
           ]
         }
